@@ -1,11 +1,11 @@
 # Gamesystem
 
-##Chi Nguyen ln2569@bard.edu  
+Chi Nguyen ln2569@bard.edu  
 
-##3/25/2021
+3/25/2021
 
-##CMSC 335: Games Systems
+CMSC 335: Games Systems
 
-##Poke Challenged
+Poke Challenged
 
-##I collaborated) on this assigment with Karolina
+I collaborated) on this assigment with Karolina
